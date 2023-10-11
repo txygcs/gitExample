@@ -1,5 +1,3 @@
 boss,jzhou483,Zhou,Jingsong
-<<<<<<< Updated upstream
 employee,swang2272,Wang,Siyan
-=======
->>>>>>> Stashed changes
+
